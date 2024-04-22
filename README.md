@@ -2,6 +2,8 @@
 
 This is the code for generating mnist images via ddpm model.
 
-The repository is modified from: [https://github.com/TeaPearce/Conditional_Diffusion_MNIST](https://github.com/TeaPearce/Conditional_Diffusion_MNIST). 
+The repository is built from the following two repositories.
 
-Code for DDIM sampling are from: [https://github.com/tatakai1/classifier_free_ddim/blob/main/Classifier_Free_DDIM_Mnist.ipynb](https://github.com/tatakai1/classifier_free_ddim/blob/main/Classifier_Free_DDIM_Mnist.ipynb)
+Codes for cDDPM are from: [https://github.com/TeaPearce/Conditional_Diffusion_MNIST](https://github.com/TeaPearce/Conditional_Diffusion_MNIST). 
+
+Codes for DDIM sampling are from: [https://github.com/tatakai1/classifier_free_ddim/blob/main/Classifier_Free_DDIM_Mnist.ipynb](https://github.com/tatakai1/classifier_free_ddim/blob/main/Classifier_Free_DDIM_Mnist.ipynb)
