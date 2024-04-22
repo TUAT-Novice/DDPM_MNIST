@@ -1,8 +1,8 @@
 # DDPM_MNIST
 
-This is the code for generating mnist images via ddpm model.
+This is the simple implementation of ddpm model for MNIST. Please check more complex and detailed implementation from [https://github.com/tatakai1/classifier_free_ddim/tree/main](https://github.com/tatakai1/classifier_free_ddim/tree/main).
 
-The repository is built from the following two repositories.
+In this repository:
 
 Codes for cDDPM are from: [https://github.com/TeaPearce/Conditional_Diffusion_MNIST](https://github.com/TeaPearce/Conditional_Diffusion_MNIST). 
 
