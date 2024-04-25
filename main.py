@@ -47,9 +47,8 @@ if __name__ == "__main__":
 
     # preview
     if is_preview:
-        image = next(iter(train_loader))[0][0].squeeze()
+        x_start = next(iter(train_loader))[0][0].squeeze()
         label = next(iter(train_loader))[1][0].squeeze()
-        x_start = image
         preview_forward(gaussian_diffusion, x_start, device)
         plt.savefig(os.path.join(image_path, 'forward.png'))
         plt.show()
