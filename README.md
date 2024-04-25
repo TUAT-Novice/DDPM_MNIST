@@ -16,4 +16,4 @@ If you want to obtain our pretrained model directly, please download `DDPM.h5` f
 
 You shoule put the file into the `./saved_models/` directory, or change the `model_path` variable in `main.py` to load the model. 
 
-You can also check the generation processes from the gif image from the link.
+You can also check the generation processes from the gif images in the link.
