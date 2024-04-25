@@ -6,6 +6,6 @@ This is the simple implementation of conditional diffusion model (ddpm, ddim) fo
 
 <br>
 
-To Please run `main.py` to conduct the experiments. During the initial run, the MNIST dataset will be downloaded into the `dataset/mnist/` directory, so ensure that your Internet connection is active.
+To reproduce the results, please run `main.py` to conduct the experiments. During the initial run, the MNIST dataset will be downloaded into the `dataset/mnist/` directory, so ensure that your Internet connection is active.
 
 
