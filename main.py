@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
 
     # eval
-    for w in [0.0, 0.5, 2.0]:
+    for w in [2.0, 0.5, 0.0]:
         # DDPM random
         ddpm_random = gaussian_diffusion.sample(model, 28, batch_size=64, channels=1, n_class=10, w=w, mode='random',
                                                      clip_denoised=False)
