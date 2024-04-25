@@ -12,6 +12,6 @@ To reproduce the results, please run `main.py` to conduct the experiments. Durin
 
 If you want to obtain our pretrained model directly, please download `DDPM.h5` from our Google Device:
 
-[https://drive.google.com/drive/folders/1Wk7Lcj2eInvZNo2ndPsumC8XtxPvjbcb?usp=sharing](https://drive.google.com/drive/folders/1Wk7Lcj2eInvZNo2ndPsumC8XtxPvjbcb?usp=sharing). 
+[https://drive.google.com/drive/folders/1Wk7Lcj2eInvZNo2ndPsumC8XtxPvjbcb?usp=sharing](https://drive.google.com/drive/folders/1Wk7Lcj2eInvZNo2ndPsumC8XtxPvjbcb?usp=sharing)
 
 You shoule put the file into the `./saved_models/` directory, or change the `model_path` variable in `main.py` to load the model. You can also check the git image from the link.
