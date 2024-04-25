@@ -8,4 +8,6 @@ This is the simple implementation of conditional diffusion model (ddpm, ddim) fo
 
 To reproduce the results, please run `main.py` to conduct the experiments. During the initial run, the MNIST dataset will be downloaded into the `dataset/mnist/` directory, so ensure that your Internet connection is active.
 
+<br>
 
+If you want to obtain our pretrained model directly, please download `DDPM.h5` from our Google Device: [https://drive.google.com/drive/folders/1Wk7Lcj2eInvZNo2ndPsumC8XtxPvjbcb?usp=sharing](https://drive.google.com/drive/folders/1Wk7Lcj2eInvZNo2ndPsumC8XtxPvjbcb?usp=sharing). You can also check the git image from the link.
